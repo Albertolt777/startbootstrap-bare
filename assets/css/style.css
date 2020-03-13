@@ -26,3 +26,15 @@ section:nth-child(even) {
     height: 300px;
     color: black;
 }
+
+.btn-papi{
+    color: rgb(4, 236, 178);
+    background-color: #ea00ff;
+    border-color: #ff9100;
+  }
+
+  .btn-papi:hover{
+    color: #e5ff00;
+    background: #003cff; 
+    border-color: #00d9ff; 
+  }
